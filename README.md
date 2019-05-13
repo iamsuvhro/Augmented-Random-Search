@@ -19,6 +19,9 @@ performance of our method over hundreds of random seeds and many different hyper
 performance in these benchmark tasks, suggesting that commonly used estimations of sample
 efficiency do not adequately evaluate the performance of RL algorithms.
 
+## Algorithm
+<img src="img/algorithm.png">
+
 ## Paper
 
 https://arxiv.org/pdf/1803.07055.pdf
