@@ -20,7 +20,7 @@ performance in these benchmark tasks, suggesting that commonly used estimations 
 efficiency do not adequately evaluate the performance of RL algorithms.
 
 ## Algorithm
-<img src="img/algorithm.png">
+<img src="https://github.com/suvhradipghosh07/Augmented-Random-Search/blob/master/img/algorithm.PNG">
 
 ## Paper
 
