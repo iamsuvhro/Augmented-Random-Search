@@ -1,2 +1,2 @@
-# Augmented-Random-Search
-In this repo I build ARS (Augmented Random Search ) without any framework and the result is just a insane it is a top AI in 2018
+# Augmente Random Search
+Augmented Random Search is a game changing AI. It is very simple implementation it is able to do the exactly the same thing that Google Deepmind did in there accomplishment last year which is to which is to train an AI to workand run across a field. Augmented Random Search is 100x time faster and 100x time more powerful.
