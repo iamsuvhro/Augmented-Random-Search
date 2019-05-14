@@ -31,8 +31,8 @@ https://arxiv.org/pdf/1803.07055.pdf
 ```
 $ pip install -r requirements.txt
 ```
-##Usage
+## Usage
 
 ```
-python ars.py
+$ python ars.py
 ```
