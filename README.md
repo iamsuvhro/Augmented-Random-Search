@@ -26,8 +26,8 @@ efficiency do not adequately evaluate the performance of RL algorithms.
 
 https://arxiv.org/pdf/1803.07055.pdf
 
-Result:
-<video width="400" controls>
-  <source src="/vs/brs/monitor/openaigym.video.0.30883.video027000.mp4" type="video/mp4">
-  
-</video>
+## Requirements:
+
+```
+$ pip install -r requirements.txt
+```
