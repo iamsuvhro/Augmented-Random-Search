@@ -23,7 +23,6 @@ efficiency do not adequately evaluate the performance of RL algorithms.
 <img src="https://github.com/suvhradipghosh07/Augmented-Random-Search/blob/master/img/algorithm.PNG">
 
 ## Paper
-
 https://arxiv.org/pdf/1803.07055.pdf
 
 ## Requirements:
